@@ -1,6 +1,5 @@
 #!/bin/bash
-sudo ufw status
-sudo ufw allow 3000
+
 sudo chmod -R 777 /home/ec2-user/express-app 
 #navigate into our working directory where we have all github files
 cd /home/ec2-user/express-app
