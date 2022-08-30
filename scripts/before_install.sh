@@ -7,7 +7,7 @@ nvm install node
 
 
 
- DIR="/home/ec2-user/Express-app"
+ DIR="/home/ec2-user/Express-App"
  if [-d "${DIR}"]; then
     echo "${DIR} exists"
  else 
