@@ -1,8 +1,8 @@
 #!/bin/bash
 
-sudo chmod -R 777 /home/ec2-user/express-app 
+sudo chmod -R 777 /home/ec2-user/Express-app 
 #navigate into our working directory where we have all github files
-cd /home/ec2-user/express-app
+cd /home/ec2-user/Express-app
 
 
 #add npm and node to path 

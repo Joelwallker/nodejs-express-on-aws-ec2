@@ -3,7 +3,7 @@ sudo apt-get install curl
 #download node and npm 
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
 . ~/.nvm/nvm.sh
-nvm install node
+nvm install 16
 
 
 
